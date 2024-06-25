@@ -1,0 +1,124 @@
+body {
+    font-family: "Anta", sans-serif;
+    background: rgb(255, 255, 255);
+}
+.wrapper {
+    display: flex;
+    width: 900px;
+    justify-content: center;
+    margin: 0 auto;
+    background: rgb(243, 243, 243);
+    box-shadow: 6px 6px 20px rgb(81, 81, 81);
+}
+aside {
+    width: 350px;
+    background: rgb(28, 33, 96);
+    margin-right: 20px;
+}
+.CVphoto {
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.header2 {
+    color: #ffff;
+}
+.links {
+    color: #ffff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.bold {
+    font-weight: 700;
+}
+.list2 {
+    color: coral;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 40px;
+    padding-left: 0;
+    list-style: inside;
+}
+.item2 {
+    color: #ffff;
+}
+.contactblock {
+    margin-left: 40px;
+}
+.techblock {
+    color: #ffff;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.softblock {
+    color: #ffff;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+main {
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.maindsc {
+    width: 400px;
+}
+.jobtitle {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+}
+.name1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;
+}
+.Projects {
+    width: 485px;
+}
+.workexp {
+    margin-top: 50px;
+}
+.headerprimary {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+.jobposition {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.jobtype {
+    color: coral;
+}
+.jobtime {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+.responslist {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.Education {
+    margin-top: 50px;
+}
+.Education2 {
+    margin-top: 20px;
+}
+.rodo {
+    font-size: 10px;
+    margin-top: 20px;
+}
